@@ -1,0 +1,6 @@
+@BrandApplication.API_HostAddress = http://localhost:5083
+
+GET {{BrandApplication.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
